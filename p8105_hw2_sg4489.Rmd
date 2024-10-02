@@ -2,7 +2,7 @@
 title: "p8105_hw2_sg4489"
 author: "sg4489"
 date: "2024-09-30"
-output: html_document
+output: github_document
 ---
 
 ```{r import_packages, warning=FALSE, message=FALSE}
